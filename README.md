@@ -1,5 +1,5 @@
 # maSSHfing
-Script for mass fast fingerprinting of multiple SSH servers daemon version
+Script for mass fingerprinting SSH servers daemon version
 
 #!/usr/bin/sh
 
