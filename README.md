@@ -6,7 +6,7 @@ Tool for mass fast fingerprinting of multiple SSH servers daemon version
 This script requires two main tools:
 
 `MASSCAN` https://github.com/robertdavidgraham/masscan /
-`HASSH` https://github.com/salesforce/hassh 
+`HASSH` https://github.com/salesforce/hassh (already included)
 
 and some unix utilities.
 
