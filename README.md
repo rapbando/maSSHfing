@@ -12,13 +12,15 @@ This script requires two main tools:
 
 and some unix utilities.
 
-##INSTALLATION:
+## INSTALLATION:
 
 It is reccomended to install MASSCAN from Github sources
 
 
 
 
-##USAGE: `sudo maSSHfing.sh xx.xx.xx.xx/yy` or `sudo maSSdump.sh xx.xx.xx.xx-xx.xx.xx.xx` 
+## USAGE: 
+
+`sudo maSSHfing.sh xx.xx.xx.xx/yy` or `sudo maSSdump.sh xx.xx.xx.xx-xx.xx.xx.xx` 
 
 
