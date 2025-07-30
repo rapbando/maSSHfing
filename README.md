@@ -21,6 +21,6 @@ It is reccomended to install MASSCAN from Github sources
 
 #### USAGE: 
 
-`sudo bash maSSHfing.sh IP/NETWORK` or `sudo bash maSSHfing.sh IP_START-IP_END` 
+`sudo bash maSSHfing.sh IP/N_MASK` or `sudo bash maSSHfing.sh IP_START-IP_END` 
 
 
