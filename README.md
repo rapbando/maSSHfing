@@ -21,6 +21,6 @@ It is reccomended to install MASSCAN from Github sources
 
 #### USAGE: 
 
-`sudo bash maSSHfing.sh xx.xx.xx.xx/yy` or `sudo bash maSSdump.sh xx.xx.xx.xx-xx.xx.xx.xx` 
+`sudo bash maSSHfing.sh xx.xx.xx.xx/yy` or `sudo bash maSSHfing.sh xx.xx.xx.xx-xx.xx.xx.xx` 
 
 
